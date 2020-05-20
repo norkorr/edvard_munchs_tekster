@@ -2,7 +2,7 @@
 
 ## How to Contribute
 
-The easiest way to get started is to [create an issue](https://github.com/norkorr/nb_kilder/issues)
+The easiest way to get started is to [create an issue](https://github.com/norkorr/edvard_munchs_tekster/issues)
 to tell us about a spelling mistake,
 some awkward wording,
 or a factual error.
@@ -17,7 +17,7 @@ and to meet some of our community members.
 2.  If you have a [GitHub](https://github.com) account,
     or are willing to [create one](https://github.com/join),
     but do not know how to use Git,
-    you can report problems or suggest improvements by [creating an issue](https://github.com/norkorr/nb_kilder/issues).
+    you can report problems or suggest improvements by [creating an issue](https://github.com/norkorr/edvard_munchs_tekster/issues).
     This allows us to assign the item to someone
     and to respond to it in a threaded discussion.
 
@@ -38,13 +38,13 @@ In brief:
     2.  Create a new branch in your desktop clone of your fork for each significant change
     3.  Commit the change in that branch
     4.  Push that branch to your fork of the repository on GitHub
-    5.  Submit a pull request from that branch to [this repository](https://github.com/norkorr/nb_kilder)
+    5.  Submit a pull request from that branch to [this repository](https://github.com/norkorr/edvard_munchs_tekster)
     6.  If you receive feedback,
         make changes on your desktop and push to your branch on GitHub -
         the pull request will update automatically.
 
-2.  The published copy of the material is in the `master` branch of [this repository](https://github.com/norkorr/nb_kilder)
-    1. Please keep the master branch of your fork up to date with the one from [this repository](https://github.com/norkorr/nb_kilder)
+2.  The published copy of the material is in the `master` branch of [this repository](https://github.com/norkorr/edvard_munchs_tekster)
+    1. Please keep the master branch of your fork up to date with the one from [this repository](https://github.com/norkorr/edvard_munchs_tekster)
     2. Create all branches from that up to date master branch in your fork
     3. Please do *not* work directly in your fork's `master` branch,
     since that will make it difficult for you to work on other contributions
